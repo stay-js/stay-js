@@ -1,7 +1,7 @@
-### Hi there, I'm Zétény - AKA stay [[Website]](https://staysite.tk) 👋
+### Hi there, I'm Zétény - AKA stay [[Website]](https://staysite.tk/) 👋
 
 
-- 🔭 I’m currently working on a Discord BOT, Anything.
+- 🔭 I’m currently working on a Discord BOT, [Anything](https://anything-site.tk/).
 - 🌱 I’m currently learning JavaScript.
 - 💬 Ask me about Anything xD
 - 📫 How to reach me: Discord: stay.js#7596
@@ -29,7 +29,7 @@
 <img align="left" alt="ts" width="26px" src="https://i.imgur.com/vSgFULR.png" />
 <img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" /> 
 
----
+
 
 <p align="center">
 <a href="https://discord.com/invite/MFMHvCn9By">
