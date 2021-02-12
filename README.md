@@ -10,7 +10,7 @@
 ### Anything
 - [Website](https://anything-site.tk/)
 - [Invite Link](https://discord.com/oauth2/authorize?client_id=796973403307376671&scope=bot&permissions=8)
-- [top.gg](https://top.gg/)
+- [Top.gg](https://top.gg/)
 
 ### 📺 Latest YouTube Videos
 
@@ -35,15 +35,6 @@
 <img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" /> 
 
 
-
-<p align="center">
-<a href="https://discord.com/invite/MFMHvCn9By">
-    <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="80"/>
-  </a>
-<a href="https://www.youtube.com/channel/UCEGp1S_QTS3goAVX1cVw-tQ">
-    <img src="https://user-images.githubusercontent.com/59381835/92191346-676c5480-ee18-11ea-8240-e416eb1a5b5d.png" alt="YouTube" width="80"/>
-  </a>
-</p>
 
 
 **© [stay-js](https://github.com/stay-js)**
