@@ -1,4 +1,4 @@
-### Hi there, I'm Zétény - aka stay [![Website]](https://staysite.tk) 👋
+### Hi there, I'm Zétény - AKA stay [[Website]](https://staysite.tk) 👋
 
 
 - 🔭 I’m currently working on a Discord BOT, Anything.
@@ -20,3 +20,24 @@
 ➡️ [more videos...](https://www.youtube.com/channel/UCEGp1S_QTS3goAVX1cVw-tQ)
 
 ---
+
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
+<img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
+<img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
+<img align="left" alt="ts" width="26px" src="https://i.imgur.com/vSgFULR.png" />
+<img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" /> 
+---
+
+<p align="center">
+<a href="https://discord.com/invite/MFMHvCn9By">
+    <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="80"/>
+  </a>
+<a href="https://www.youtube.com/channel/UCEGp1S_QTS3goAVX1cVw-tQ">
+    <img src="https://user-images.githubusercontent.com/59381835/92191346-676c5480-ee18-11ea-8240-e416eb1a5b5d.png" alt="YouTube" width="80"/>
+  </a>
+</p>
+
+
+**© [stay-js](https://github.com/stay-js)**
