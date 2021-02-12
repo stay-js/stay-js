@@ -7,7 +7,7 @@
 - 📫 How to reach me: Discord: stay.js#7596
 - ⚡ Fun fact: My favourite game is CS:GO
 
-### Anything
+### 🤖 Anything
 - [Website](https://anything-site.tk/)
 - [Invite Link](https://discord.com/oauth2/authorize?client_id=796973403307376671&scope=bot&permissions=8)
 - [Top.gg](https://top.gg/)
@@ -25,6 +25,7 @@
 ➡️ [more videos...](https://www.youtube.com/channel/UCEGp1S_QTS3goAVX1cVw-tQ)
 
 ---
+</br>
 
 ### Languages and Tools:
 
