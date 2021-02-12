@@ -12,6 +12,8 @@
 - [Invite Link](https://discord.com/oauth2/authorize?client_id=796973403307376671&scope=bot&permissions=8)
 - [Top.gg](https://top.gg/)
 
+<br />
+
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
@@ -26,6 +28,8 @@
 
 ---
 
+<br />
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
@@ -34,6 +38,8 @@
 <img align="left" alt="ts" width="26px" src="https://i.imgur.com/vSgFULR.png" />
 <img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" /> 
 
+<br />
+<br />
 <br />
 
 
