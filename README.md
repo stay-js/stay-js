@@ -25,7 +25,6 @@
 ➡️ [more videos...](https://www.youtube.com/channel/UCEGp1S_QTS3goAVX1cVw-tQ)
 
 ---
-<br />
 
 ### Languages and Tools:
 
@@ -34,6 +33,8 @@
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
 <img align="left" alt="ts" width="26px" src="https://i.imgur.com/vSgFULR.png" />
 <img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" /> 
+
+<br />
 
 
 
