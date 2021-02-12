@@ -25,7 +25,7 @@
 ➡️ [more videos...](https://www.youtube.com/channel/UCEGp1S_QTS3goAVX1cVw-tQ)
 
 ---
-</br>
+<br />
 
 ### Languages and Tools:
 
