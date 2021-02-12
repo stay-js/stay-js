@@ -1,10 +1,5 @@
-### Hi there, I'm Zétény - aka [stay][website] 👋
+### Hi there, I'm Zétény - aka stay [![Website]](https://staysite.tk) 👋
 
-[![Website]](https://staysite.tk)
-
-**stay-js/stay-js** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a Discord BOT, Anything.
 - 🌱 I’m currently learning JavaScript.
