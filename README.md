@@ -12,6 +12,13 @@
 - [Invite Link](https://discord.com/oauth2/authorize?client_id=796973403307376671&scope=bot&permissions=8)
 - [Top.gg](https://top.gg/)
 
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
+<img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
+<img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
+<img align="left" alt="ts" width="26px" src="https://i.imgur.com/vSgFULR.png" />
+<img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" /> 
 
 ### 📺 Latest YouTube Videos
 
@@ -27,15 +34,6 @@
 
 ---
 
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
-<img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
-<img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
-<img align="left" alt="ts" width="26px" src="https://i.imgur.com/vSgFULR.png" />
-<img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" /> 
-<img align="left" alt="mongoDB" width="26px" src="https://i.imgur.com/AatcToi.png" /> 
 
 <br />
 <br />
