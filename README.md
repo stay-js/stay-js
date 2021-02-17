@@ -5,7 +5,12 @@
 - 🌱 I’m currently learning JavaScript.
 - 💬 Ask me about Anything. xD
 - 📫 How to reach me: Discord() => 
-{ <strong>stay.js#7596</strong> }
+<br />
+{ 
+<br />
+<strong>stay.js#7596</strong> 
+<br />
+}
 - ⚡ Fun fact: My favourite game is CS:GO.
 
 ### 🤖 Anything
