@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a Discord BOT, [Anything](https://anything-site.tk/).
 - 🌱 I’m currently learning JavaScript.
 - 💬 Ask me about Anything. xD
-- 📫 How to reach me: Discord() => <strong>stay.js#7596</strong> 
+- 📫 How to reach me: Discord => <strong>stay.js#7596</strong> 
 - ⚡ Fun fact: My favourite game is CS:GO.
 
 ### 🤖 Anything
