@@ -25,6 +25,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [СНОВА Я НАПИВАЮСЬ](https://www.youtube.com/watch?v=xeUC9pplEoQ)
 - [YESSIR✨ #COVID19​ go away](https://www.youtube.com/watch?v=tV39oXjtn4A)
 - [RICH](https://www.youtube.com/watch?v=_uiBRYyRblU)
 - [Skechers](https://www.youtube.com/watch?v=tPYgIVTqerw)
