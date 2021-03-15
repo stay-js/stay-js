@@ -37,6 +37,9 @@
 
 ---
 
+<a href="https://top.gg/bot/796973403307376671">
+    <img src="https://top.gg/api/widget/796973403307376671.svg" alt="Anything" />
+</a>
 
 <br />
 <br />
