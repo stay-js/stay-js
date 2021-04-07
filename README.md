@@ -1,4 +1,4 @@
-### Hi there, I'm Zétény - AKA stay [[Website]](https://staysite.tk/) 👋
+### Hi there, I'm Zétény - AKA stay [[Website]](https://stay77.tk/) 👋
 
 
 - 🔭 I’m currently working on a Discord BOT, [Anything](https://anything-site.tk/).
