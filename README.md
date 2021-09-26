@@ -1,12 +1,5 @@
 ### Hi there, I'm Zétény - AKA stay [[Website]](https://stay77.tk/) 👋
 
-
-- 🔭 I’m currently working on a Discord BOT, [Anything](https://anything-site.tk/).
-- 🌱 I’m currently learning JavaScript.
-- 💬 Ask me about Anything. xD
-- 📫 How to reach me: Discord => <strong>stay#7596</strong> 
-- ⚡ Fun fact: My favourite game is CS:GO.
-
 ### 🤖 Anything
 - [Website](https://anything-site.tk/)
 - [Invite Link](https://discord.com/oauth2/authorize?client_id=796973403307376671&scope=bot&permissions=8)
