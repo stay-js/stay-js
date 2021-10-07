@@ -1,7 +1,7 @@
-### Hi there, I'm Zétény - AKA stay [[Website]](https://stay77.tk/) 👋
+### Hi there, I'm Zétény - AKA stay [[Website]](https://stayy.xyz/) 👋
 
 ### 🤖 Anything
-- [Website](https://anything-site.tk/)
+- [Website](https://anything.stayy.xyz/)
 - [Invite Link](https://discord.com/oauth2/authorize?client_id=796973403307376671&scope=bot&permissions=8)
 - [Top.gg](https://top.gg/bot/796973403307376671)
 
