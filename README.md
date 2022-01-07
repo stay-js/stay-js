@@ -19,13 +19,6 @@ Full stack dev wannabe
 
 <br />
 
-### 🤖 Anything
-- [Website](https://anything.stayy.xyz/)
-- [Invite Link](https://discord.com/oauth2/authorize?client_id=796973403307376671&scope=bot&permissions=8)
-- [Top.gg](https://top.gg/bot/796973403307376671)
-
-<br />
-
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
