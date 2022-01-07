@@ -1,9 +1,8 @@
 ### Hi there, I'm Zétény - AKA stay [[Website]](https://stayy.xyz/) 👋
-
-### 🤖 Anything
-- [Website](https://anything.stayy.xyz/)
-- [Invite Link](https://discord.com/oauth2/authorize?client_id=796973403307376671&scope=bot&permissions=8)
-- [Top.gg](https://top.gg/bot/796973403307376671)
+IT Student(NEU/NJIT)
+Full stack dev wannabe
+🥋 Kyokushin
+🥊 Thai-Box/Muay Thai
 
 ### Languages and Tools:
 
@@ -12,6 +11,13 @@
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
 <img align="left" alt="ts" width="26px" src="https://i.imgur.com/vSgFULR.png" />
 <img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" /> 
+
+<br />
+
+### 🤖 Anything
+- [Website](https://anything.stayy.xyz/)
+- [Invite Link](https://discord.com/oauth2/authorize?client_id=796973403307376671&scope=bot&permissions=8)
+- [Top.gg](https://top.gg/bot/796973403307376671)
 
 <br />
 
