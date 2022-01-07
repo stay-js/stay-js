@@ -1,8 +1,13 @@
 ### Hi there, I'm Zétény - AKA stay [[Website]](https://stayy.xyz/) 👋
 IT Student(NEU/NJIT)
+<br />
 Full stack dev wannabe
+<br />
 🥋 Kyokushin
+<br />
 🥊 Thai-Box/Muay Thai
+
+<br />
 
 ### Languages and Tools:
 
