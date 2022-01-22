@@ -15,9 +15,6 @@ Full stack dev wannabe
 <img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" /> 
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
 <img align="left" alt="ts" width="26px" src="https://i.imgur.com/vSgFULR.png" />
-<img align="left" alt="react" width="26px" src="https://i.imgur.com/mfIYuN2_d.webp" />
-<img align="left" alt="express" width="26px" src="https://i.imgur.com/tYHjXYo_d.webp" />
-
 
 <br />
 
