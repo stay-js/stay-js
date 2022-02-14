@@ -6,12 +6,8 @@
     <li>🥊 Thai-Box/Muay Thai</li>
 </ul>
 
-
-
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=stay-js" />
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stay-js&layout=compact" />
-
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stay-js&layout=compact" />
+<img width="47%" src="https://github-readme-stats.vercel.app/api?username=stay-js" />
 
 ### Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -39,5 +35,6 @@
 <br />
 <br />
 <img src="https://top.gg/api/widget/796973403307376671.svg" />
+
 
 **© [stay-js](https://github.com/stay-js)**
