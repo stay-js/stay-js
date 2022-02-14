@@ -17,6 +17,7 @@ Full stack dev wannabe
 <img align="left" alt="ts" width="26px" src="https://i.imgur.com/vSgFULR.png" />
 
 <br />
+<br />
 
 <a href="https://top.gg/bot/796973403307376671">
     <img src="https://top.gg/api/widget/796973403307376671.svg" alt="Anything" />
