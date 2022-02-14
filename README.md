@@ -1,4 +1,4 @@
-### Hi there, I'm Zétény - AKA stay [[Website]](https://stayy.xyz/) 👋
+### Hi there, I'm Zétény - AKA [stay](https://stayy.xyz/) 👋
 IT Student(NEU/NJIT)
 <br />
 Full stack dev wannabe
@@ -15,21 +15,6 @@ Full stack dev wannabe
 <img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" /> 
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
 <img align="left" alt="ts" width="26px" src="https://i.imgur.com/vSgFULR.png" />
-
-<br />
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [СНОВА Я НАПИВАЮСЬ](https://www.youtube.com/watch?v=xeUC9pplEoQ)
-- [YESSIR✨ #COVID19​ go away](https://www.youtube.com/watch?v=tV39oXjtn4A)
-- [RICH](https://www.youtube.com/watch?v=_uiBRYyRblU)
-- [Skechers](https://www.youtube.com/watch?v=tPYgIVTqerw)
-- [69❤](https://www.youtube.com/watch?v=GfvllwVS1u8)
-- [MERRY CHRISTMAS❤](https://www.youtube.com/watch?v=9yajNsW_OrY)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://www.youtube.com/channel/UCEGp1S_QTS3goAVX1cVw-tQ)
 
 ---
 
