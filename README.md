@@ -1,10 +1,8 @@
-## Hi there, I'm Zétény - AKA [stay](https://stayy.xyz/) 👋
-<ul>
-    <li>IT Student(NJIT/Neumann)</li>
-    <li>Full stack dev wannabe</li>
-    <li>🥋 Kyokushin</li>
-    <li>🥊 Thai-Box/Muay Thai</li>
-</ul>
+## Hi there, I'm Zétény - AKA [stay](https://znagy.hu/) 👋
+- IT Student(NJIT/Neumann)
+- Full stack dev wannabe
+- 🥋 Kyokushin
+- 🥊 Thai-Box/Muay Thai
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=stay-js&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
@@ -36,6 +34,4 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=stay-js&icon=0&color=0)](https://visitcount.itsvg.in)
-
 **© [stay-js](https://github.com/stay-js)**
