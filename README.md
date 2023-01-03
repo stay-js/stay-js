@@ -6,11 +6,10 @@
     <li>🥊 Thai-Box/Muay Thai</li>
 </ul>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stay-js&layout=compact" />
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=stay-js" />
-
-<br />
-<br />
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=stay-js&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=stay-js&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=stay-js&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -35,9 +34,8 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-<br />
-<br />
-<img src="https://top.gg/api/widget/796973403307376671.svg" />
 
+---
+[![](https://visitcount.itsvg.in/api?id=stay-js&icon=0&color=0)](https://visitcount.itsvg.in)
 
 **© [stay-js](https://github.com/stay-js)**
