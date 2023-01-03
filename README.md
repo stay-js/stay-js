@@ -9,7 +9,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=stay-js&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=stay-js&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### Languages and Tools:
+## Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
