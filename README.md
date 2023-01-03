@@ -1,5 +1,5 @@
 ## Hi there, I'm Zétény - AKA [stay](https://znagy.hu/) 👋
-- IT Student(NJIT/Neumann)
+- IT Student (NJIT/Neumann)
 - Full stack dev wannabe
 - 🥋 Kyokushin
 - 🥊 Thai-Box/Muay Thai
